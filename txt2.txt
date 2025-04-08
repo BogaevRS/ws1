@@ -3,3 +3,4 @@ bla-bla
 bug fix
 add line 4
 add line 5
+bla-bla user2
