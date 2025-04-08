@@ -6,3 +6,4 @@ add line 4
 dev2 user add line
 and new line
 dev1 user add line
+bla-bla user 2
